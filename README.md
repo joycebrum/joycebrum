@@ -45,7 +45,7 @@ Security Solutions
 
 See below some of the tools developed by GOSST and the OpenSSF:
 
-- [Scorecards][scorecards]: automated checks to evaluate a project's security practices
+- [Scorecard][scorecards]: automated checks to evaluate a project's security practices
 and suggest improvements as needed;
 - [SLSA][slsa] (pronounced "salsa"): a standard and protocol to ensure an artifact's
 provenance, guaranteeing it comes from the expected location and process. This aims to
